@@ -11,7 +11,7 @@ pipeline {
       stage('Hello1') 
       {
          steps {
-            echo 'Yogesh Test'
+            echo 'Yogesh Test from local'
          }
         
       }
