@@ -1,3 +1,4 @@
+currentBuild.displayName="JenkinsPipeline-#" + currentBuild.number=
 pipeline {
    agent any
 
